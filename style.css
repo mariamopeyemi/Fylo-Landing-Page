@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-image: url(/images/bg-curvy-desktop.svg); */
+    background-color:hsl(217, 28%, 15%);
+    cursor: pointer;
+    max-width: 1440px;
+    color: white;
+}
+
+/* *****heading***** */
+#heading{
+    display: flex;
+    justify-content: space-between;
+}
+#accessible{
+    display: flex;
+    flex-direction: column;
+    
+}
+#illustration{
+    display: flex;
+    justify-content: space-around;
+}
+#intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5px;
+}
+.secure{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    background-color: hsl(198, 60%, 50%);
+    color: white;
+    border-radius: 25%;
+    cursor: pointer;
+}
+
+/* ********************** */
+
+#container{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+
+}
+.big-flex{
+    width: 300px;
+    flex-direction: column;
+}
