@@ -7,5 +7,7 @@ It is responsive on both mobile and desktop view.
 
 It is a Frontend mentor project for beginners 
 (https://www.frontendmentor.io)
-https://mariamopeyemi.github.io/Fylo-Landing-Page/
-view here(https://mariamopeyemi.github.io/Fylo-Landing-Page/)
+
+
+https://mariam-fylo.netlify.app/
+view here(https://mariam-fylo.netlify.app/)
